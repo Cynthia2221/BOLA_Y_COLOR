@@ -14,7 +14,7 @@ public class Bola
      */
     public Bola()
     {
-         int num=(int) (Math.random() * 2 + 1);
+         int num=(int) (Math.random() * 3 + 1);
          if(num == 1){
              color= Color.BLANCO;
          } else{
